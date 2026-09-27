@@ -1,4 +1,4 @@
-# CInema-Management-System-
+# Cinema-Management-System
 The Cinema Management System helps reduce manual work, improves booking accuracy, and provides an organized way to manage theatre operations using Python. It includes 3 modules i.e. movies, booking and billing. 
 1.Movie Module: Allows users to view available movies, their timings, genres, and other basic details.
 2.Booking Module: Enables customers to select a movie, choose a show timing, select the number of seats, and confirm their ticket booking.
